@@ -83,8 +83,8 @@ The frontend will run at `http://localhost:3000` and the backend will run at `ht
 
 ## 📬 Contact  
 Feel free to connect with me:  
-- GitHub: [your-github-username](https://github.com/SUBHAPRIYAM-dev)  
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/subhapriyam-dash-b77184230/)  
+- GitHub: [SUBHAPRIYAM-dev](https://github.com/SUBHAPRIYAM-dev)  
+- LinkedIn: [Subhapriyam Dash](https://www.linkedin.com/in/subhapriyam-dash-b77184230/)  
 
 ---
 
