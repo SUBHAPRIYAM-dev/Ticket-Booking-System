@@ -1,8 +1,3 @@
-Of course!  
-Here's a clean, **professional `README.md`** you can use for your GitHub repository for the **Ticket Booking System** project:
-
----
-
 # 🎟️ Ticket Booking System for Events  
 
 ## Overview  
